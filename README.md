@@ -1,3 +1,3 @@
 # NLP
-NLP related projects 
-Named entity recognition project using LSTMs with Keras
+NLP related projects worked on
+
